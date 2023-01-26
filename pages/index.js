@@ -7,7 +7,8 @@ const Index = () => {
       <hr />
       <br />
       <div>Welcome to 4k95m.github.io!</div>
-      <li><Link href="/writeups">Writeups</Link></li>
+      <li><a href="/about">About me</a></li>
+      <li><a href="/writeups">Writeups</a></li>
     </>
   )
 }
