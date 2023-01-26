@@ -3,10 +3,11 @@ import Link from 'next/link'
 const Index = () => {
   return (
     <>
+      <h1>4k95m.github.io</h1>
+      <hr />
+      <br />
       <div>Welcome to 4k95m.github.io!</div>
-      <Link href="/writeups">
-        <a>link Writeups</a>
-      </Link>
+      <li><Link href="/writeups">Writeups</Link></li>
     </>
   )
 }
