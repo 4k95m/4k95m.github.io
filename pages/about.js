@@ -1,6 +1,6 @@
 export default () => (
   <>
-    <h1>4k95m.github.io/writeups</h1>
+    <h1>4k95m.github.io/about</h1>
     <hr />
     <br />
       <div>About me
