@@ -1,5 +1,10 @@
+import Head from 'next/head'
+
 export default () => (
   <>
+    <Head>
+      <title>4k95m - about</title>
+    </Head>
     <h1>4k95m.github.io/about</h1>
     <hr />
     <br />
